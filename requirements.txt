@@ -1,0 +1,4 @@
+Django==1.11.7
+django-prometheus==1.0.10
+prometheus-client==0.0.21
+uWSGI==2.0.15
