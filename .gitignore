@@ -104,6 +104,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/
 /db.sqlite3
 /multi/counter_*.db
 /multi/gauge_*.db
