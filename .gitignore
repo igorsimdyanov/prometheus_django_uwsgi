@@ -109,3 +109,4 @@ venv.bak/
 /multi/counter_*.db
 /multi/gauge_*.db
 /multi/histogram_*.db
+data/
